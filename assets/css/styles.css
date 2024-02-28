@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+
+header {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+header img {
+    width: 100%;
+}
+
+.desc-section {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+p {
+    color: white;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.desc-section p {
+    width: 40%;
+    margin: 20px;
+}
+
+.desc-section img {
+    width: 35%;
+    margin: 20px;
+}
+
+.icons-section {
+    background-color: #1E1A13;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 75px;
+    padding-top: 20px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 40px;
+    background-color: #1E1A13;
+    color: white;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 55px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
+}
+
+#icono-ojo {
+    text-align: center;
+    font-size: 37px;
+}
+
+#icono-mano {
+    text-align: center;
+    font-size: 39px;
+}
+
+#icono-pincel {
+    text-align: center;
+    font-size: 41px;
+}
+
+.fotos-iguanas {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fotos-iguanas img {
+    width: 316px;
+    height: 202px;
+} 
+
+#iguana3 {
+    padding: 73px 10px
+}
+
+footer {
+    background-color: #1E1A13;
+    text-align: center;
+    padding: 20px;
+}
+a { 
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
